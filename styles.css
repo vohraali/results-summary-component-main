@@ -1,0 +1,235 @@
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: hsl(221, 100%, 96%);
+    
+}
+.container-2{
+    display: flex;
+    border-radius: 1.25rem 1.25rem 1.25rem 1.25rem;
+    background-color: hsl(0, 0%, 100%);
+    max-width: 37.5rem;
+    
+}
+p{
+    font-size: 1.125rem;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+.p1{
+    color: hsl(221, 100%, 96%);
+}
+.p2{
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+    font-size: 2.1875rem;
+    color: hsl(0, 0%, 100%);
+}
+.p3{
+    margin-top: 0rem;
+    color: hsl(221, 100%, 96%);
+}
+.p4{
+    font-size: 1.875rem;
+    color: hsl(0, 0%, 100%);
+}
+.p5{
+    color: hsl(221, 100%, 96%);
+}
+.result{
+    background-color: hsl(241, 81%, 54%);
+    height: 70vh;
+    width: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1.25rem;
+}
+.your-result{
+    height: 2.5rem;
+    padding-top: 1.25rem;
+    margin-bottom: 1.5625rem;
+}
+.circle{
+    text-align: center;
+    height: 5.625rem;
+    width: 8.75rem;
+    background-color: hsl(234, 85%, 45%);
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+    padding-top: 2.5rem;
+    border-radius: 50%;
+    
+    
+}
+.great{
+    height: 1.5625rem;
+}
+.your-score{
+    width: 15.625rem;
+    text-align: center;
+    margin-top: 2.8125rem;
+
+}
+.summary{
+    background-color: hsl(0, 0%, 100%);
+    height: 70vh;
+    width: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0rem 1.25rem 1.25rem 0rem;
+}
+.summary1{
+    margin-top: 1.25rem;
+    width: 15.625rem;
+}
+.marks1{
+    height: 2.5rem;
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+    display: flex;
+    width: 15.625rem;
+    background-color: lightpink;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 0.625rem;
+    border-bottom-right-radius: 0.625rem;
+    border-bottom-left-radius: 0.625rem;
+    border-top-left-radius: 0.625rem;
+
+}
+.marks2{
+    height: 2.5rem;
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+    display: flex;
+    width: 15.625rem;
+    background-color: lightyellow;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 0.625rem;
+    border-bottom-right-radius: 0.625rem;
+    border-bottom-left-radius: 0.625rem;
+    border-top-left-radius: 0.625rem;
+
+}
+.marks3{
+    height: 2.5rem;
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+    display: flex;
+    width: 15.625rem;
+    background-color: rgb(204, 243, 204);
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 0.625rem;
+    border-bottom-right-radius: 0.625rem;
+    border-bottom-left-radius: 0.625rem;
+    border-top-left-radius: 0.625rem;
+
+}
+.marks4{
+    height: 2.5rem;
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+    display: flex;
+    width: 15.625rem;
+    background-color: rgb(209, 226, 231);
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 0.625rem;
+    border-bottom-right-radius: 0.625rem;
+    border-bottom-left-radius: 0.625rem;
+    border-top-left-radius: 0.625rem;
+
+}
+.reaction{
+    margin-left: 0.625rem;
+    color: hsl(0, 100%, 67%);
+}
+.m-80{
+    margin-left: 3.75rem;
+}
+.m1-out{
+   margin-left: 0.3125rem; 
+   color: hsl(241, 100%, 89%);
+}
+.m1-100{
+    margin-left: 0.3125rem;
+    color: hsl(241, 100%, 89%);
+}
+.memory{
+    margin-left: 0.625rem;
+    color: hsl(39, 100%, 56%);
+}
+.m-92{
+    margin-left: 3.75rem;
+}
+.m2-out{
+   margin-left: 0.3125rem; 
+   color: hsl(241, 100%, 89%);
+}
+.m2-100{
+    margin-left: 0.3125rem;
+    color: hsl(241, 100%, 89%);
+}
+.verbal{
+    margin-left: 0.625rem;
+    margin-right: 0.5rem;
+    color: hsl(166, 100%, 37%);
+}
+.m-61{
+    margin-left: 4.375rem;
+}
+.m3-out{
+   margin-left: 0.3125rem; 
+   color: hsl(241, 100%, 89%);
+}
+.m3-100{
+    margin-left: 0.3125rem;
+    color: hsl(241, 100%, 89%);
+}
+.visual{
+    margin-left: 0.625rem;
+    margin-right: 0.5rem;
+    color: hsl(234, 85%, 45%);
+}
+.m-72{
+    margin-left: 4.375rem;
+}
+.m4-out{
+   margin-left: 0.3125rem; 
+   color: hsl(241, 100%, 89%);
+}
+.m4-100{
+    margin-left: 0.3125rem;
+    color: hsl(241, 100%, 89%);
+}
+.btn{
+    background-color: hsl(224, 30%, 27%);
+    color: hsl(0, 0%, 100%);
+    height: 2.5rem;
+    width: 15.625rem;
+    border-radius: 1.25rem;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(241, 81%, 54%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+@media (max-width:375px) {
+    .container-2{
+        flex-direction: column;
+    }
+}
+
